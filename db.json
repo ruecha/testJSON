@@ -1,5 +1,4 @@
-ratingScore: [
-        {
+{
           course_name: "Frozen Yogurt",
           exam_name: "Frozen Yogurt",
           start_time: "17:30:00",
@@ -47,4 +46,3 @@ ratingScore: [
           number_of_times: 2,
           status: "start",
         },
-      ]
